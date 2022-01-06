@@ -33,23 +33,6 @@ To edit a news you shoud acces <a href ="https://back-end-kuba.herokuapp.com/new
 To delete a news you shoud acces <a href ="https://back-end-kuba.herokuapp.com/news">/news/id/delete</a>
 
 
-## Getting Started
-
-### Installation
-
-To install this project:
-
-```bash
-npm clone https://github.com/KubanychAsanov/back-end.git 
-# this command will clone this project
-```
-
-To run this project you have to install all dependencies, run:
-
-```bash
-npm install 
-# this command will install all dependencies
-```
 ## Resources used
 
 - [Node JS](https://nodejs.org/en/about/)
