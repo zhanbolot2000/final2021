@@ -20,17 +20,17 @@ This site is dedicated to writing news for the university! Here are some example
 
 ## API description
 
-To access data with awesome front-end is <a href ="https://back-end-kuba.herokuapp.com/">/</a>
+To access data with awesome front-end is <a>/</a>
 
-To view all news you should access <a href ="https://back-end-kuba.herokuapp.com/news">/news</a>
+To view all news you should access <a>/news</a>
 
-To add news you should do a POST request to <a href ="https://back-end-kuba.herokuapp.com/add">/add</a>
+To add news you should do a POST request to <a>/add</a>
 
-To view exectly one news you should access by ID<a href ="https://back-end-kuba.herokuapp.com/news">/news/id</a>
+To view exectly one news you should access by ID<a>/news/id</a>
 
-To edit a news you shoud acces <a href ="https://back-end-kuba.herokuapp.com/news">/news/id/edit</a>
+To edit a news you shoud acces <a>/news/id/edit</a>
 
-To delete a news you shoud acces <a href ="https://back-end-kuba.herokuapp.com/news">/news/id/delete</a>
+To delete a news you shoud acces <a>/news/id/delete</a>
 
 
 ## Resources used
