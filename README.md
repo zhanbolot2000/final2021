@@ -45,7 +45,4 @@ To delete a news you shoud acces <a href ="https://back-end-kuba.herokuapp.com/n
 
 ## ‍👨‍💻 ‍Contacts...
 
-<a href="https://www.instagram.com/kuba.asanovv/"><img src="https://img.icons8.com/color/48/000000/instagram" width="60"></a>
-<a href="https://www.linkedin.com/in/kubanych-asanov-07394b1b4/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="60"></a>
-<a href="https://www.youtube.com/channel/UCneGkwC2dxnOc10q1Zlc0GQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="60"></a>
-<a href="https://kuba.go.kg/"><img src="https://img.icons8.com/ultraviolet/40/000000/domain.png" width="60"></a>
+<a href="https://www.instagram.com/atamov_19/"><img src="https://img.icons8.com/color/48/000000/instagram" width="60"></a>
